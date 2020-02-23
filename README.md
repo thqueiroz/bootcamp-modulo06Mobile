@@ -1,7 +1,3 @@
-<h1 align="center">
-  ![rec](https://github.com/thqueiroz/bootcamp-modulo06Mobile/blob/master/Grava%C3%A7%C3%A3o%20de%20Tela%202020-02-23%20%C3%A0s%202.46.52%20AM%20-%20c%C3%B3pia.mov)
-</h1>
-
 <h3 align="center">
   React Native Project
 </h3>
